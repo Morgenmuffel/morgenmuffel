@@ -16,7 +16,7 @@ I'm actively seeking a role as a Junior/Mid-Level **AI Engineer** or **ML Engine
 
 ## 📬 How to reach me
 
-!(./assets/email.png)
+![Email:](./assets/email.png)
 <!--
 **Morgenmuffel/morgenmuffel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
